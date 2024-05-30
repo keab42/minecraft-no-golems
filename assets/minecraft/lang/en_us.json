@@ -1,0 +1,15 @@
+{
+  "advancements.adventure.summon_iron_golem.description": "Summon an Iron Defender to help defend a village",
+  "advancements.adventure.summon_iron_golem.title": "Hired Help",
+  "entity.minecraft.iron_golem": "Iron Defender",
+  "entity.minecraft.snow_golem": "Animated Snowman",
+  "item.minecraft.iron_golem_spawn_egg": "Iron Defender Spawn Egg",
+  "item.minecraft.snow_golem_spawn_egg": "Animated Snowman Spawn Egg",
+  "subtitles.entity.iron_golem.attack": "Iron Defender attacks",
+  "subtitles.entity.iron_golem.damage": "Iron Defender breaks",
+  "subtitles.entity.iron_golem.death": "Iron Defender dies",
+  "subtitles.entity.iron_golem.hurt": "Iron Defender hurts",
+  "subtitles.entity.iron_golem.repair": "Iron Defender repaired",
+  "subtitles.entity.snow_golem.death": "Animated Snowman dies",
+  "subtitles.entity.snow_golem.hurt": "Animated Snowman hurts"
+}
